@@ -7,9 +7,6 @@ function App() {
     <BrowserRouter>
       <Router />
     </BrowserRouter>
-    // <div>
-    //   <h1>Welcome to Toila Artspace</h1>
-    // </div>
   );
 }
 
